@@ -1,0 +1,11 @@
+{
+  "productos": [],
+  "usuarios": [
+    {
+      "id": 1,
+      "nombreUsuario": "EstebanM",
+      "email": "admin@asd.com",
+      "password": "Asdqwe123-"
+    }
+  ]
+}

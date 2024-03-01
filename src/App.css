@@ -1,0 +1,28 @@
+tbody tr th{
+    font-weight: 100;
+}
+
+.table-container {
+    max-height: 200px;
+    overflow-y: scroll;
+}
+
+#root{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.mainSection{
+    flex-grow: 1;
+}
+
+.banner{
+    object-fit: cover;
+    height: 395px;
+    width: 100%;
+}
+
+.text-truncate{
+    max-width: 150px;
+}
